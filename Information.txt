@@ -1,0 +1,9 @@
+Database Name : - hotel.sql in folder DB
+
+Admin's Login:
+User name : - admin
+Password  : - admin
+
+User's Login:
+User name : - user
+Password  : - user123
